@@ -1,5 +1,5 @@
 # CalorieSpy
-Tools to pre-train a model to detect calories given images of food.
+Tool to detect the calories in a given image of food.
 
 ## License
 
